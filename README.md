@@ -1,2 +1,4 @@
 # myDemo
-This is my first Git Repository! by Dharani(author)
+This is my first Git Repository!
+<br>
+by Dharani(author)
